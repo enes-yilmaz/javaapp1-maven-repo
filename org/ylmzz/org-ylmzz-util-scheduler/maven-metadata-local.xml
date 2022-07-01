@@ -3,10 +3,11 @@
   <groupId>org.ylmzz</groupId>
   <artifactId>org-ylmzz-util-scheduler</artifactId>
   <versioning>
-    <release>10.0.0</release>
+    <release>10.1.0</release>
     <versions>
       <version>10.0.0</version>
+      <version>10.1.0</version>
     </versions>
-    <lastUpdated>20220701095050</lastUpdated>
+    <lastUpdated>20220701101737</lastUpdated>
   </versioning>
 </metadata>
